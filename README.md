@@ -6,11 +6,15 @@ Connect with me on [Twitter](https://twitter.com/JPSoucy). Find my personal webs
 
 ### My repositories
 
+#### Table of contents
+
 * [COVID-19 Canada Open Data Working Group](#covid-19-canada-open-data-working-group)
 * [Python & R packages](#python--r-packages)
 * [Reproducible research](#reproducible-research)
 * [Presentations & workshops](#presentations--workshops)
 * [Miscellaneous](#miscellaneous)
+
+Software packages are highlighted with `code text`.
 
 #### COVID-19 Canada Open Data Working Group
 
