@@ -60,6 +60,7 @@ Software packages are highlighted with `code text`.
 * [canada-covid-vaccine-coverage](https://github.com/jeanpaulrsoucy/canada-covid-vaccine-coverage)
 * [ices-vaccine-coverage-by-fsa-time-series](https://github.com/jeanpaulrsoucy/ices-vaccine-coverage-by-fsa-time-series)
 * [on-pharmacy-covid-vaccines](https://github.com/jeanpaulrsoucy/on-pharmacy-covid-vaccines)
+* [covid-random-charts](https://github.com/jeanpaulrsoucy/covid-random-charts)
 * [covid-19-cargill](https://github.com/jeanpaulrsoucy/covid-19-cargill)
 * [canada-mortality-rates-by-age](https://github.com/jeanpaulrsoucy/canada-mortality-rates-by-age)
 * [west-nile-canada](https://github.com/jeanpaulrsoucy/west-nile-canada)
