@@ -65,5 +65,6 @@ Software packages are highlighted with `code text`.
 * [canada-mortality-rates-by-age](https://github.com/jeanpaulrsoucy/canada-mortality-rates-by-age)
 * [west-nile-canada](https://github.com/jeanpaulrsoucy/west-nile-canada)
 * [lyme-usa-1993-2009](https://github.com/jeanpaulrsoucy/lyme-usa-1993-2009)
+* [r-approx-1](https://github.com/jeanpaulrsoucy/r-approx-1)
 
 Find my GitHub gists [here](https://gist.github.com/jeanpaulrsoucy).
