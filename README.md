@@ -51,6 +51,7 @@ Software packages are highlighted with `code text`.
 * [covid-19-coinfection-metaregression](https://github.com/jeanpaulrsoucy/covid-19-coinfection-metaregression)
 * [california-counties-suicide-and-temperature](https://github.com/jeanpaulrsoucy/california-counties-suicide-and-temperature)
 * [covid-19-patients-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-patients-amr-meta-analysis)
+* [covid-19-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-amr-meta-analysis)
 
 #### Presentations & workshops
 
