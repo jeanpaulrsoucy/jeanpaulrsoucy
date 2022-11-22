@@ -52,10 +52,12 @@ Software packages are highlighted with `code text`.
 * [california-counties-suicide-and-temperature](https://github.com/jeanpaulrsoucy/california-counties-suicide-and-temperature)
 * [covid-19-patients-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-patients-amr-meta-analysis)
 * [covid-19-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-amr-meta-analysis)
+* [covid-19-mobility-responsiveness](https://github.com/jeanpaulrsoucy/covid-19-mobility-responsiveness)
 
 #### Presentations & workshops
 
 * [cssc-2021-r-shiny-workshop](https://github.com/jeanpaulrsoucy/cssc-2021-r-shiny-workshop)
+* [dlsph-student-conf-2022-web-scraping-workshop](https://github.com/jeanpaulrsoucy/dlsph-student-conf-2022-web-scraping-workshop)
 
 #### Miscellaneous
 
