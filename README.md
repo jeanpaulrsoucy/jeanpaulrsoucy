@@ -82,8 +82,8 @@ Software packages are highlighted with `code text`.
 <details open>
  <summary>Click to expand</summary>
 
- * [cssc-2021-r-shiny-workshop](https://github.com/jeanpaulrsoucy/cssc-2021-r-shiny-workshop)
- * [dlsph-student-conf-2022-web-scraping-workshop](https://github.com/jeanpaulrsoucy/dlsph-student-conf-2022-web-scraping-workshop)
+ * [cssc-2021-r-shiny-workshop](https://github.com/jeanpaulrsoucy/cssc-2021-r-shiny-workshop): What makes R Shiny so shiny? A step-by-step introduction to interactive dashboards in R (2021)
+ * [dlsph-student-conf-2022-web-scraping-workshop](https://github.com/jeanpaulrsoucy/dlsph-student-conf-2022-web-scraping-workshop): Web scraping for public health (2022)
  
 </details>
 
