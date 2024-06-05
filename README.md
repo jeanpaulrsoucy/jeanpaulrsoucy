@@ -66,7 +66,7 @@ Software packages are highlighted with `code text`.
 
  Wherever possible, I aim to publish reproducible research with open data:
 
- * [covid-19-mobility](https://github.com/jeanpaulrsoucy/covid-19-mobility): Estimating the effect of mobility reductions on COVID-19 transmission in 41 cities during the first wave of the pandemic using data from a public transit app
+ * [covid-19-mobility](https://github.com/jeanpaulrsoucy/covid-19-mobility): Public transit mobility as a leading indicator of COVID-19 transmission in 40 cities during the first wave of the pandemic
  * [covid-19-antibiotic](https://github.com/jeanpaulrsoucy/covid-19-antibiotic): Antibiotic prescribing in patients with COVID-19: A rapid review and meta-analysis
  * [ccodwg-scientific-data](https://github.com/ccodwg/ccodwg-scientific-data): A sub-national real-time epidemiological and vaccination database for the COVID-19 pandemic in Canada
  * [covid-19-coinfection-metaregression](https://github.com/jeanpaulrsoucy/covid-19-coinfection-metaregression): Predictors and Microbiology of Co-Infection in Patients with COVID-19: Living Rapid Review Update and Meta-Regression
