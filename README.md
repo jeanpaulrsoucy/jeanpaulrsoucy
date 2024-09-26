@@ -72,7 +72,7 @@ Software packages are highlighted with `code text`.
  * [covid-19-coinfection-metaregression](https://github.com/jeanpaulrsoucy/covid-19-coinfection-metaregression): Predictors and Microbiology of Co-Infection in Patients with COVID-19: Living Rapid Review Update and Meta-Regression
  * [california-counties-suicide-and-temperature](https://github.com/jeanpaulrsoucy/california-counties-suicide-and-temperature): The Effect of Average Temperature on Suicide Rates in Five Urban California Counties, 1999–⁠2019: An Ecological Time Series Analysis
  * [covid-19-patients-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-patients-amr-meta-analysis): Antimicrobial resistance in patients with COVID-19: a systematic review and meta-analysis
- * [covid-19-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-amr-meta-analysis): Antimicrobial resistance in patients with COVID-19: a systematic review and meta-analysis
+ * [covid-19-amr-meta-analysis](https://github.com/jeanpaulrsoucy/covid-19-amr-meta-analysis): Antibiotic resistance associated with the COVID-19 pandemic: a systematic review and meta-analysis
  * [covid-19-mobility-responsiveness](https://github.com/jeanpaulrsoucy/covid-19-mobility-responsiveness): Characterizing responsiveness to the COVID-19 pandemic in the United States and Canada using mobility data
  
 </details>
