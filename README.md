@@ -1,8 +1,6 @@
 ### About me
 
-Hello! My name is Jean-Paul R. Soucy and I am a [PhD candidate](https://www.dlsph.utoronto.ca/program/phd-epidemiology/) in infectious disease epidemiology at the Dalla Lana School of Public Health at the University of Toronto. My research interests focus on the use of emerging data sources in infectious disease surveillance.
-
-Connect with me on [Twitter](https://twitter.com/JPSoucy). Find my personal website at [jprs.me](https://jeanpaulsoucy.com/) and my writing at [Data Gripes](https://data.gripe/). Code related to my blog can be found in the [data-gripes](https://github.com/jeanpaulrsoucy/data-gripes) repository.
+Hello! My name is Jean-Paul R. Soucy and I am a data scientist working in healthcare in Montreal, Canada. You can find my personal website at [jprs.me](https://jeanpaulsoucy.com/) and my links-and-notes blog at [Big Muddy](https://muddy.jprs.me/).
 
 ### My repositories
 
